@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **more about Embedded software development.**
 
-- 📫 How to reach me **m4ghaniofficial@gmail.com**
+- 📫 How to reach me-> **m4ghaniofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
