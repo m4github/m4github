@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohadeseh</h1>
 <h3 align="center">An Embedded Software developer.</h3>
 
-- 🌱 I’m currently learning **more about Embedded software development.**
+- 🌱 I’m currently learning **more about Embedded Linux software development.**
 
 - 📫 How to reach me-> **m4ghaniofficial@gmail.com**
 
